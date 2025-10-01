@@ -1,4 +1,5 @@
-# Inspiraciencia (Red Social de Lectura)  https://drive.google.com/file/d/1GcFCZvbspFDqfpZSnWChTwozTzb2hmvC/view?usp=sharing
+# Inspiraciencia (Red Social de Lectura) 
+ARCHIVO ------> https://drive.google.com/file/d/1GcFCZvbspFDqfpZSnWChTwozTzb2hmvC/view?usp=sharing
 
 ![Web](https://img.shields.io/badge/Web_Development-Full_Stack-blue?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Base_de_Datos-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
